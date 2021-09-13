@@ -1,1 +1,1 @@
-# zshrc-config
+# My zshrc Config
