@@ -78,7 +78,6 @@ export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS'  --color fg:7,bg:-1,hl:6,fg+:6,bg+:-1
 #for bat theme
 export BAT_THEME="base16"
 
-#Shit, forgot whats this is for
 fpath=(~/.zsh.d/ $fpath)
 
 # Hit Q in order to get out of ranger in the directory you're in
